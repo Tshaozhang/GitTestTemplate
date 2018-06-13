@@ -1,0 +1,8 @@
+package com.zsh.GitTestTemplate;
+
+public class OpenjdkDemo {
+	public static void main(String[] args) {
+		System.out.println("java openjdk come on");
+	}
+
+}
