@@ -24,11 +24,8 @@ public class AppTest
      * @return the suite of tests being tested
      */
     public static Test suite()
-
     {
-		System.out.println(124432);
         return new TestSuite( AppTest.class );
-
     }
 
     /**
